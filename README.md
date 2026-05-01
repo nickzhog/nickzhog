@@ -51,6 +51,7 @@ I am a Senior Go Engineer with **5+ years of experience** building and operating
 ---
 
 ⚡ Fun Fact
+
 I see the world in C4 Diagrams. Even my grocery shopping list is a microservices architecture with a dedicated caching layer.
 
 ---
