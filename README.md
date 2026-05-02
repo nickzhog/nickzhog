@@ -46,7 +46,7 @@ I am a Senior Go Engineer with **5+ years of experience** building and operating
 #### 🛰 [devops-tool](https://github.com/nickzhog/devops-tool)
 **Distributed Telemetry Collector**
 * **Concept:** A high-performance agent-server system for metric ingestion with end-to-end security.
-* **Stack:** Go, gRPC, HTTP Batching.
+* **Stack:** Go, gRPC, HTTP Batching, Redis.
 
 ---
 
